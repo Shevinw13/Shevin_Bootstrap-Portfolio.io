@@ -1,0 +1,50 @@
+#shevin {
+    font-size: 30px;
+    color:royalblue;
+}
+.jumbotron {
+    padding: 5px;
+    margin-top: 10px;
+    float: left;
+    margin-left: 0px;
+}
+#shevin1 {
+    padding: 5px;
+    height: 325px;
+    width: 300px; 
+    float: left;
+}
+#shevin2 {
+    padding: 5px;
+    height: 400px;
+    width: 400px; 
+    float: left;
+}
+#shevin3 {
+    padding: 5px;
+    height: 400px;
+    width: 400px; 
+    float: left;
+}
+#shevin4 {
+    padding: 5px;
+    height: 400px;
+    width: 600px; 
+    float: left;
+}
+#shevin5 {
+    padding: 5px;
+    height: 400px;
+    width: 400px; 
+    float: left;
+}
+
+
+@media screen and (max-width: 800px) {
+    body {
+        background-color: lightslategrey;
+    }
+    .shevin1 {
+        width: 600px;
+    }
+}
