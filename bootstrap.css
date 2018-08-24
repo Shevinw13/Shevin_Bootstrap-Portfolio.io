@@ -35,8 +35,6 @@
     width: 400px; 
     float: left;
 }
-
-
 @media screen and (max-width: 800px) {
     body {
         background-color: lightslategrey;
